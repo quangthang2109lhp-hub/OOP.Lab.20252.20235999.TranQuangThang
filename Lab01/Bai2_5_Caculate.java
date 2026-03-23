@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Caculate{
+public class Bai2_5_Caculate{
     public static void main(String[] args) {
         String strNum1,strNum2;
         String strNotification="You 've just entered: ";
