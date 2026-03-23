@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 6.2_InputFromKeyboard {
+public class InputFromKeyboard {
     public static void main(String args[]) {
         Scanner keyboard = new Scanner(System.in);
         System.out.println("What's your name?");
