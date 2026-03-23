@@ -1,4 +1,4 @@
-public class Bai2.1_HelloWorld{
+public class Bai2_1_HelloWorld{
     public static void main(String[] args) {
         System.out.println("Xin chao \n cac ban! ");
         System.out.println("Hello \t world! ");
