@@ -1,7 +1,7 @@
 import static java.lang.Math.sqrt;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class Bai2_6_second_degree_equation{
+public class Bai2_6_Second_degree_equation{
     public static void main(String[] args) {
         String str1,str2,str3;
         double a;
