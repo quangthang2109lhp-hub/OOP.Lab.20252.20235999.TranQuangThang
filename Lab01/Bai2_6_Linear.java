@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class Bai2_6_linear{
+public class Bai2_6_Linear{
     public static void main(String[] args) {
         String str1,str2;
         double a;
